@@ -1,0 +1,8 @@
+[package]
+name = "redis-testing"
+version = "0.1.0"
+authors = ["Chris Sheppard <chris.sheppard@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+"redis" = "0.13.0"
